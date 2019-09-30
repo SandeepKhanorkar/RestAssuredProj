@@ -1,4 +1,4 @@
-# RestAssuredProj1
+# RestAssuredProj
 CountryDemoProject
 
 
